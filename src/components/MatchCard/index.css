@@ -1,0 +1,30 @@
+.match-card-para {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+}
+.match-card {
+  background-color: #0f172a;
+  padding: 15px;
+  border-radius: 10px;
+  list-style-type: none;
+  margin: 20px;
+  text-align: center;
+  width: 30%;
+}
+.competing-team-logo {
+  width: 110px;
+  height: 120px;
+}
+.lost {
+  color: #e31a1a;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 16px;
+}
+.won {
+  color: #18ed66;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 16px;
+}

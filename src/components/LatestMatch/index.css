@@ -1,0 +1,69 @@
+.team-logo {
+  width: 100px;
+  height: 80px;
+}
+.match-card-heading {
+  color: white;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 16px;
+}
+.match-card-para {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+}
+.team-heading {
+  color: white;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 20px;
+}
+.latest-match-container {
+  display: flex;
+  background-color: #0f172a;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 15px;
+  width: 70%;
+}
+.rcb {
+  background-image: linear-gradient(#a4261d, #1e293b);
+  background-size: cover;
+}
+.kkr {
+  background-image: linear-gradient(#5755a7, #1e293b);
+  background-size: cover;
+}
+.kxp {
+  background-image: linear-gradient(#d91c1f, #1e293b);
+  background-size: cover;
+}
+.csk {
+  background-image: linear-gradient(#f7db00, #1e293b);
+  background-size: cover;
+}
+.srh {
+  background-image: linear-gradient(#f26d22, #1e293b);
+  background-size: cover;
+}
+.mi {
+  background-image: linear-gradient(#13418b, #1e293b);
+  background-size: cover;
+}
+.rr {
+  background-image: linear-gradient(#da237b, #1e293b);
+  background-size: cover;
+}
+.dc {
+  background-image: linear-gradient(#4f5db0, #1e293b);
+  background-size: cover;
+}
+@media screen and (min-width: 768px) {
+  .team-logo {
+    width: 140px;
+    height: 120px;
+  }
+}

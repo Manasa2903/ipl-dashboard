@@ -1,0 +1,32 @@
+.details-container {
+  background-color: #a4261d;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.team-match-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 15px;
+}
+.team-banner {
+  width: 70%;
+  height: 350px;
+}
+.heading {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.match-card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
